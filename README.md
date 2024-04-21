@@ -1,7 +1,7 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/izaacrob/">Izaac<a/>! 👋 </br> <b>I'm computer engineering 🤖 & BackEnd Developer 🧑🏻‍💻</b>
 
 ## About Me 🚀
-Passionate computer engineering student focusing on cybersecurity and web development, currently completing my professional residency at INAOE. My experience includes web application development with Python. I'm passionate about exploring new technologies and constantly seeking ways to improve my programming and software design skills.
+Passionate Computer Engineering student focusing on cybersecurity and web development, currently completing my professional residency at INAOE. My experience includes web application development with Python. I'm passionate about exploring new technologies and constantly seeking ways to improve my programming and software design skills.
 
 In addition to my interest in cybersecurity and web development, I'm eager to expand my knowledge in machine learning-oriented programming and data science. I firmly believe in the power of machine learning to solve complex problems and am excited to explore practical applications in pattern recognition and data analysis.
 

@@ -13,7 +13,7 @@ My ultimate goal is to specialize in machine learning and pattern recognition to
 
 - <b>Programming Languages:</b> HTML, CSS.
 - <b>Back-end:</b> Python, Flask.
-- <b>Databases:</b> SQL, NoSQL (MongoDB, MySQL, PostgrSQL)
+- <b>Databases:</b> SQL, NoSQL.
 - <b>Tools:</b> Git, GitHub.
 
 ## Contact 📬

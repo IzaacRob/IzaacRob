@@ -14,7 +14,8 @@ My ultimate goal is to specialize in machine learning and pattern recognition to
 - <b>Programming Languages:</b> HTML, CSS.
 - <b>Back-end:</b> Python, Flask.
 - <b>Databases:</b> SQL, NoSQL.
-- <b>Tools:</b> Git, GitHub.
+- <b>Tools:</b> Git, GitHub, JWT.
+- <b>Learning:</b> Cibersecurity, React.
 
 ## Contact 📬
 Connect with me on [LinkedIn](https://www.linkedin.com/in/izaacrob/) or by email at Izaacrob1@gmail.com
